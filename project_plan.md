@@ -1,3 +1,25 @@
+# Project Plan
+## Minimal Information about Field Phenotyping Experiments
+
+Objectives (immediate goals):
+
+1. Transform MIAPPE into a more usable format (RDF/JSON/XML/CSV)
+2. Extend MIAPPE with SOSA/SSN ontology in a modular way
+3. Pick two case investigations to demonstrate the use of MIAPPE Sensor extension and the transformed formats
+
+
+## MIAFPE Elements
+
+
+
+
+
+
+
+
+
+Future Goals (long-term):
+
 - FORK MIAPPE
 - include data model (protege)
 - include MIAPPE examples

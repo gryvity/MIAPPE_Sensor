@@ -1,0 +1,32 @@
+{
+    "@context": {
+        "dc": "http://purl.org/dc/elements/1.1/",
+        "dcterms": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/",
+        "prov": "http://www.w3.org/ns/prov#",
+        "schema": "http://schema.org/",
+        "xsd": "http://www.w3.org/2001/XMLSchema#",
+        "owl": "http://www.w3.org/2002/07/owl#",
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "ppeo" : "http://purl.org/ppeo/PPEO.owl"
+    },
+
+    "Investigation": {
+        "@type": "Investigation",
+        "name": "Investigation of the Impact of AI on Society",
+        "description": "A comprehensive study on how artificial intelligence is affecting various aspects of society.",
+        "date": "2023-10-01",
+        "participants": [
+            {
+                "@type": "Person",
+                "name": "Dr. John Smith",
+                "affiliation": "University of Technology"
+            },
+            {
+                "@type": "Person",
+                "name": "Dr. Jane Doe",
+                "affiliation": "Institute of Advanced Studies"
+            }
+        ]
+    }
+}
